@@ -1,5 +1,5 @@
 repositories:
-  master3:
+  x3plus_driver:
     type: git
     url: https://github.com/cord-burmeister/x3plus_driver.git
     version: main
