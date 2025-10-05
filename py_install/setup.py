@@ -5,6 +5,10 @@ setup(
     version='3.3.9',
     author='Yahboom Team',
     packages=find_packages(),
+    install_requires=[
+        'pyserial>=3.5',
+        # Add other dependencies here
+    ],
 )
 
 # cd py_install
